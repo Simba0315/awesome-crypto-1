@@ -513,6 +513,7 @@
 - [Glassnode](https://glassnode.com/) - 强大的链上数据分析及周报
 - [Coinglass](https://www.coinglass.com) - 合约持仓、灰度持仓、资金费率
 - [CryptoBubbles](https://cryptobubbles.net) - 前500加密货币活跃度气泡图
+- [CryptoBubbles.org](https://cryptobubbles.org/zh) - 1200种加密货币实时气泡图与热力图，支持64种语言，免费无广告
 - [Pharos](https://pharos.watch) - 开源稳定币分析仪表盘，追踪挂钩压力、DEX流动性、安全评分和黑名单事件
 
 ### 指数查询
